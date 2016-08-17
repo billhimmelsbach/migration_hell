@@ -1,4 +1,5 @@
 # Migration Hell Drills
+![](http://36.media.tumblr.com/aad6655caa448060bf328a4d0eb2360c/tumblr_njszga64lw1qkfwf2o2_540.png)
 
 In this drill, we're going to explore migration hell. Please come along.
 
